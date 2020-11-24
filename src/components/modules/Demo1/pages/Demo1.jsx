@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './Demo1.module.scss'
+import styles from '../styles/Demo1.module.scss'
 
 function Demo1() {
   return (

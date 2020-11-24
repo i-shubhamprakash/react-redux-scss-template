@@ -1,8 +1,8 @@
 import { Route, Switch } from "react-router-dom";
-import Home from "../Home/Home";
-import Demo1 from "../Demo1/Demo1";
-import Demo2 from "../Demo2/Demo2";
-import NOT_FOUND from "../NOT_FOUND/NOT_FOUND";
+import Home from "./modules/Home/Home";
+import Demo1 from "./modules/Demo1/pages/Demo1";
+import Demo2 from "./modules/Demo2/pages/Demo2";
+import NOT_FOUND from "./modules/NOT_FOUND/NOT_FOUND";
 
 function App() {
 	return (

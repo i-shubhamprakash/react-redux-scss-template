@@ -1,5 +1,5 @@
 import React from 'react'
-import styles from './Demo2.module.scss'
+import styles from '../styles/Demo2.module.scss'
 
 export default function Demo2() {
   return (
